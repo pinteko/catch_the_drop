@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="catch_the_drop:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/catch_the_drop_jar2</output-path>
+    <root id="archive" name="catch_the_drop.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="catch_the_drop" />
+    </root>
+  </artifact>
+</component>
